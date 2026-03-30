@@ -1,1 +1,0 @@
-# ourBotManager_ros
